@@ -8,7 +8,7 @@
          "cavresetiket",
          
       ],   
-   "repository": "https://github.com/MehmetAtes21/Tagger",
+   "repository": "https://github.com/yildizcavres",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
