@@ -1,12 +1,12 @@
 {
-      "name": "StarTaggerBot",
-      "description": "StarTaggerBot",
+      "name": "cavresetiket",
+      "description": "rahatsizetmeyiniz34",
       "keywords": [
          "telegram",
          "tagger",
          "group",
-         "StarTaggerBot",
-         "BotDestekTR"
+         "cavresetiket",
+         
       ],   
    "repository": "https://github.com/MehmetAtes21/Tagger",
    "env": {
@@ -32,7 +32,7 @@
       },
       "sahib": {
          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan",
-         "value": "tMertTt"
+         "value": "rahatsizetmeyiniz34"
       },      
       "support": {
          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın",
