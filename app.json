@@ -1,11 +1,11 @@
 {
-      "name": "cansu etiket",
+      "name": "sudenazetiket",
       "description": "Parliamenttr",
       "keywords": [
          "telegram",
          "tagger",
          "group",
-         "cansuetiket_bot",
+         "etiketsudenaz_bot",
          
       ],   
    "repository": "https://github.com/yildizcavres",
