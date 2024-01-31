@@ -12,23 +12,23 @@
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
-         "value": ""
+         "value": "6716666574:AAEgio4eFtQW-2KzpfI6OCiqb4m9UTsMLng"
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": ""
+         "value": "14209813"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
-         "value": ""
+         "value": "f6fc4af6fa07543ace7bcf771e89cdd2"
       },    
       "LOG_QRUP": {
          "description": "log grubun id si",
-         "value": ""
+         "value": "-1001831099952"
       },
       "USERNAME": {
          "description": "Botun kullanıcı adı yazınız @ işareti olmadan",
-         "value": ""
+         "value": "etiketsudenaz_bot"
       },
       "sahib": {
          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan",
@@ -36,7 +36,7 @@
       },      
       "support": {
          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın",
-         "value": ""
+         "value": "https://t.me/medikalsohbettr"
       },
       "startmesaj": {
          "description": "Bota start verilince mesajınız",
