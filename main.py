@@ -123,7 +123,7 @@ async def mentionall(event):
     await client.send_message(event.chat_id, "✅ 𝖴𝗒𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂 𝖻𝖺𝗌𝗅𝖺𝖽𝗂 . . .",
                     buttons=(
                       [
-                      Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/{support}')
+                      Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/medikalsohbettr')
                       ]
                     )
                   ) 
@@ -182,7 +182,7 @@ async def mentionalladmin(event):
     await client.send_message(event.chat_id, "✅ 𝖠𝖽𝗆𝗂𝗇 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂 𝖻𝖺𝗌𝗅𝖺𝖽𝗂 . . .",
                     buttons=(
                       [
-                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/{support}')
+                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/medikalsohbettr')
                       ]
                     )
                   ) 
@@ -241,7 +241,7 @@ async def tektag(event):
     await client.send_message(event.chat_id, "✅ 𝖴𝗒𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂 𝖻𝖺𝗌𝗅𝖺𝖽𝗂 . . .",
                     buttons=(
                       [
-                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/{support}')
+                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/medikalsohbettr')
                       ]
                     )
                   ) 
@@ -316,7 +316,7 @@ async def etag(event):
     await client.send_message(event.chat_id, "✅ 𝖴𝗒𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂 𝖻𝖺𝗌𝗅𝖺𝖽𝗂 . . .",
                     buttons=(
                       [
-                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/{support}')
+                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/medikalsohbettr')
                       ]
                     )
                   ) 
@@ -425,7 +425,7 @@ async def stag(event):
     await client.send_message(event.chat_id, "• 𝖴𝗒𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂 𝖻𝖺𝗌𝗅𝖺𝖽𝗂 . . .",
                     buttons=(
                       [
-                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/{support}')
+                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/medikalsohbettr')
                       ]
                     )
                   ) 
@@ -491,7 +491,7 @@ async def rtag(event):
     await client.send_message(event.chat_id, "✅ 𝖴𝗒𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂 𝖻𝖺𝗌𝗅𝖺𝖽𝗂 . . .",
                     buttons=(
                       [
-                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/{support}')
+                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', f'https://t.me/medikalsohbettr')
                       ]
                     )
                   ) 
