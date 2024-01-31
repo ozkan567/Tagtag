@@ -8,7 +8,7 @@
          "etiketsudenaz_bot",
          
       ],   
-   "repository": "https://github.com/yildizcavres",
+   "repository": "https://github.com/ozkan567/Tagtag",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
